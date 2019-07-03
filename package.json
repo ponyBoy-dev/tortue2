@@ -1,0 +1,14 @@
+{
+  "name": "tortue2",
+  "version": "1.0.0",
+  "description": "un gps pour tortue folle",
+  "main": "tortue2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poneyFier",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
